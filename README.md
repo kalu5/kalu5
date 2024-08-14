@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kalu5/kalu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 &nbsp;Hi there
+
+- 🌱 I’m currently learning NodeJS
+- 📫 How to reach me: 451660550@qq.com
+- 😄 Pronouns: JavaScript、NodeJS、Vue、React
+- ⚡ Fun fact: Yak shaving 
