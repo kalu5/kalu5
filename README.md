@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 &nbsp;Hi there
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 Recently, I have been paying attention to open source
 - 📫 How to reach me: 451660550@qq.com
 - 😄 Pronouns: JavaScript、NodeJS、Vue、React
 - ⚡ Fun fact: Yak shaving 
